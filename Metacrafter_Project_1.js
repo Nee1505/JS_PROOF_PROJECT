@@ -6,13 +6,6 @@ Assessment Requirements
    you will store it in the variable you created in step 1
 3. Your listNFTs() function will print all of your NFTs metadata to the console (i.e. console.log("Name: " + someNFT.name))
 4. For good measure, getTotalSupply() should return the number of NFT's you have created
-*/
-
-// create a variable to hold your NFT's
-
-// this function will take in some values as parameters, create an
-// NFT object using the parameters passed to it for its metadata, 
-// and store it in the variable above.
 
 
  let NFTs=[];//Array to store multiple variables
